@@ -1,2 +1,0 @@
-# reactMealApp
-Created with CodeSandbox
